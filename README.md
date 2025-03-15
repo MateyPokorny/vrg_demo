@@ -8,3 +8,5 @@
 ### technologie
 - Next JS/React a typescript
 - mapa OpenLayers
+
+vypracoval jsem osekanou verzi zadání pro mediory(bez implementace websocketů), protože tahle mi přišla zajímavější
